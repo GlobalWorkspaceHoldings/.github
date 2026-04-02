@@ -17,9 +17,10 @@ We operate [SGF.work](https://sgf.work) — a coworking space in Springfield, Mi
 
 ### Use our stuff
 
-Everything here is free to use. If you're using something commercially, just shoot us a note at [github@gwh.co](mailto:github@gwh.co) — we won't charge you, we just like knowing where our work ends up.
+Everything here is free to use. If you're using something commercially, just shoot us a note at [github@gwh.co](mailto:github@gwh.co) — we won't charge you, we just like knowing where our work ends up. Skip the note and we might just send you a bill instead.
 
 ---
+
 
 ### Find us
 
