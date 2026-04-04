@@ -1,6 +1,6 @@
 # Global Workspace Holdings
 
-**Building the infrastructure for how people work in Springfield, MO.**
+**Building the infrastructure for how people work in Springfield, MO and beyond.**
 
 We operate [SGF.work](https://sgf.work) — a coworking space in Springfield, Missouri — and share the tools, templates, and systems we build along the way.
 
